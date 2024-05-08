@@ -1,0 +1,16 @@
+D:\intern\sample\sample\bin\Debug\sample.exe.config
+D:\intern\sample\sample\bin\Debug\sample.exe
+D:\intern\sample\sample\bin\Debug\sample.pdb
+D:\intern\sample\sample\obj\Debug\sample.csproj.AssemblyReference.cache
+D:\intern\sample\sample\obj\Debug\sample.Form1.resources
+D:\intern\sample\sample\obj\Debug\sample.Properties.Resources.resources
+D:\intern\sample\sample\obj\Debug\sample.csproj.GenerateResource.cache
+D:\intern\sample\sample\obj\Debug\sample.csproj.CoreCompileInputs.cache
+D:\intern\sample\sample\obj\Debug\sample.exe
+D:\intern\sample\sample\obj\Debug\sample.pdb
+D:\intern\sample\sample\obj\Debug\sample.progressbar.resources
+D:\intern\sample\sample\obj\Debug\sample.dashboard.resources
+D:\intern\sample\sample\obj\Debug\sample.forgetpassword.resources
+D:\intern\sample\sample\obj\Debug\sample.dashboard2.resources
+D:\intern\sample\sample\obj\Debug\sample.registrationPage.resources
+D:\intern\sample\sample\obj\Debug\sample.universe.resources
